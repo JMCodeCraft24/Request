@@ -1,2 +1,2 @@
 # Request
- Request Handling Library for JMFramework
+ Request Handling Library
